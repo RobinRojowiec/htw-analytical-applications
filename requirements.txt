@@ -4,3 +4,4 @@ seaborn
 tqdm
 matplotlib
 notebook
+requests
